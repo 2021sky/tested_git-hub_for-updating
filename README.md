@@ -1,4 +1,4 @@
-This is a Testing Version website (web version & mobile web version).
+This is a web page for GitHub testing (web version & mobile web version).
 <br>
 <br>
 Link:
