@@ -2,7 +2,7 @@ This is a web page for GitHub testing (web version & mobile web version).
 <br>
 <br>
 Link:
-https://2021sky.github.io/tested_git-hub_for-updating/
+https://2021sky.github.io/tested_git-hub_for_updating/
 <br>
 <br>
 <br>
